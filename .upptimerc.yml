@@ -5,6 +5,11 @@ repo: status # The name of this repository
 sites:
   - name: Allure.id
     url: https://allure.id/
+  - name: Allure.id API Backend
+    url: https://api.allure.id/
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Allure Diary
     url: https://diary.allure.id/
 
@@ -16,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/allure-ai/status/master/assets/icon.png
   name: Allure AI Status
   introTitle: "Welcome to Allure AI Status Page"
-  introMessage: Hi there! If you're here, it means that you're curious about us. We really appreciate it.
+  introMessage: Hi there! If you're here, it means that you're curious about us. This site tells you whether or not our service is experiencing any disruption.
   navbar:
     - title: Status
       href: /
