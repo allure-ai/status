@@ -22,9 +22,9 @@
     "url": "https://api.allure.id/",
     "icon": "https://favicons.githubusercontent.com/api.allure.id",
     "slug": "allure-id-api-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 765,
     "timeMonth": 738,
     "timeYear": 760,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-24": 0
+    }
   },
   {
     "name": "Allure Diary",
