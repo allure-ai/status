@@ -4,7 +4,7 @@
     "url": "https://allure.id/",
     "icon": "https://icons.duckduckgo.com/ip3/allure.id.ico",
     "slug": "allure-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 4034,
     "timeYear": 2197,
     "dailyMinutesDown": {
+      "2024-05-30": 0,
       "2023-12-10": 161,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -41,7 +42,7 @@
     "timeMonth": 107,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-05-30": 8,
+      "2024-05-30": 472,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
       "2024-05-27": 1440,
