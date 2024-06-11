@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
-    "time": 1984,
-    "timeDay": 3431,
-    "timeWeek": 4958,
-    "timeMonth": 4390,
-    "timeYear": 2314,
+    "time": 1987,
+    "timeDay": 2598,
+    "timeWeek": 4824,
+    "timeMonth": 4299,
+    "timeYear": 2318,
     "dailyMinutesDown": {
       "2023-12-10": 161,
       "2023-12-09": 1440,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diary.allure.id.ico",
     "slug": "allure-diary",
     "status": "down",
-    "uptime": "18.78%",
+    "uptime": "18.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 127,
-    "timeDay": 226,
-    "timeWeek": 136,
+    "timeDay": 96,
+    "timeWeek": 129,
     "timeMonth": 113,
-    "timeYear": 129,
+    "timeYear": 128,
     "dailyMinutesDown": {
-      "2024-06-10": 8,
+      "2024-06-11": 8,
+      "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
@@ -404,8 +405,7 @@
       "2023-06-16": 1440,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
-      "2023-06-13": 1440,
-      "2023-06-12": 1440
+      "2023-06-13": 1440
     }
   }
 ]
